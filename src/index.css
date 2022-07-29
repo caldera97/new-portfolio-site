@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 @layer base {
+    body {
+        font-family: 'Ubuntu', sans-serif;
+    }
     li {
         @apply px-4;
         @apply cursor-pointer;
