@@ -1,3 +1,6 @@
+import FlatBook from '../assets/flatbook.png'
+import Archive from '../assets/the_archive.png'
+import Forum from '../assets/TheForum.png'
 function Work() {
   return (
     <div className="w-full md:h-screen bg-slate-500">
