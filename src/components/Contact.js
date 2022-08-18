@@ -12,7 +12,7 @@ function Contact() {
         <input className="p-2"type="text" placeholder="Name" name="name"></input>
         <input className="my-4 p-2"type="email" placeholder="Email" name="name"></input>
         <textarea className="p-2"name="message" rows="10" placeholder="Message"></textarea>
-        <button className="border-2 px-4 py-3 my-8 mx-auto flex items-center duration-500 hover:bg-gradient-to-r from-slate-400 to-slate-800 ">Contact Me</button>
+        <button className="border-2  border-black px-4 py-3 my-8 mx-auto flex items-center hover:bg-gray-900 duration-150 hover:text-gray-400 ">Contact Me</button>
       </form>
     </div>
   );
