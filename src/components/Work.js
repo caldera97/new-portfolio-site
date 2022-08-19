@@ -20,10 +20,15 @@ function Work() {
               <span className="text 2xl font-bold text-white tracking-wider">
                 React Js and Ruby on Rails Application
               </span>
-              <div className="pt-8 text-center">
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 bg-white text-gray-800 font-bold text-lg">
-                    code{" "}
+              <div className="pt-8 text-center flex gap-2 justify-center">
+                <a href="https://github.com/caldera97/phase-5-frontend">
+                  <button className="text-center rounded-lg px-2 py-3 bg-white text-gray-800 font-bold text-base">
+                    front-end code{" "}
+                  </button>
+                </a>
+                <a href="https://github.com/caldera97/phase-5-backend">
+                  <button className="text-center rounded-lg px-2 py-3 bg-white text-gray-800 font-bold text-base">
+                    back-end code{" "}
                   </button>
                 </a>
               </div>
@@ -38,7 +43,7 @@ function Work() {
                 Vanilla JS art viewer
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/caldera97/phase-1-project">
                   <button className="text-center rounded-lg px-4 py-3 bg-white text-gray-800 font-bold text-lg">
                     code{" "}
                   </button>
@@ -55,7 +60,7 @@ function Work() {
                 React Js and Ruby on Rails Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/caldera97/phase-4-project">
                   <button className="text-center rounded-lg px-4 py-3 bg-white text-gray-800 font-bold text-lg">
                     code{" "}
                   </button>
