@@ -9,7 +9,7 @@ import C from "../assets/c.png";
 
 function Skills() {
   return (
-    <div name="skills" className="w-full h-screen bg-slate-500">
+    <div name="skills" className="w-full h-screen bg-slate-500 border-y-8 border-slate-500">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
           <div>

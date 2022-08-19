@@ -20,7 +20,7 @@ function Work() {
               <span className="text 2xl font-bold text-white tracking-wider justify-center">
                 React Js and Ruby on Rails Application
               </span>
-              <div className="pt-8 text-center flex gap-2">
+              <div className="pt-8 text-center flex justify-center gap-2">
                 <a href="https://github.com/caldera97/phase-5-frontend">
                   <button className="text-center rounded-lg px-2 py-3 bg-white text-gray-800 font-bold text-base">
                     front-end code{" "}
