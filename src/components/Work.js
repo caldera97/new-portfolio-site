@@ -16,11 +16,11 @@ function Work() {
             style={{ backgroundImage: `url(${FlatBook})` }}
             className="shadow-lg group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100 duration-500">
-              <span className="text 2xl font-bold text-white tracking-wider">
+            <div className="opacity-0 group-hover:opacity-100 duration-500 text-center">
+              <span className="text 2xl font-bold text-white tracking-wider justify-center">
                 React Js and Ruby on Rails Application
               </span>
-              <div className="pt-8 text-center flex gap-2 justify-center">
+              <div className="pt-8 text-center flex gap-2">
                 <a href="https://github.com/caldera97/phase-5-frontend">
                   <button className="text-center rounded-lg px-2 py-3 bg-white text-gray-800 font-bold text-base">
                     front-end code{" "}
@@ -55,7 +55,7 @@ function Work() {
             style={{ backgroundImage: `url(${Forum})` }}
             className="shadow-lg group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            <div className="opacity-0 group-hover:opacity-100 duration-500">
+            <div className="opacity-0 group-hover:opacity-100 duration-500 text-center">
               <span className="text 2xl font-bold text-white tracking-wider">
                 React Js and Ruby on Rails Application
               </span>
